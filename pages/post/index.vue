@@ -3,7 +3,7 @@
     <b-row>
       <b-col md="12">
         <b-card class="shadow-md border-0 rounded-lg">
-          <h5>DATA PRODUCT</h5>
+          <h5>DATA PRODUCTS</h5>
           <hr />
           <b-button :to="{ name: 'post-create' }" variant="primary" class="mb-3"
             >ADD</b-button
